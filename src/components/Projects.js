@@ -11,40 +11,15 @@ const Projects = () => {
             <div className="projects__cards">
 
                 <div className="projects__card">
-                    <h3>Uniswap</h3>
+                    <h3>Bot Trader</h3>
                     <img src={uniswap} alt="Uniswap Swap Page" />
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis consectetur facere neque assumenda quasi aliquid,
-                        perferendis ratione rerum dolorem.
+                    <p>a way to obtain passive earnings, with feedback and open source. recommended for 2023
                     </p>
 
                     <a href="https://uniswap.org/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/Uniswap/v2-core" target="_blank" className="button">Code</a>
                 </div>
 
-                <div className="projects__card">
-                    <h3>Compound</h3>
-                    <img src={compound} alt="Compound Landing Page" />
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis consectetur facere neque assumenda quasi aliquid,
-                        perferendis ratione rerum dolorem.
-                    </p>
-
-                    <a href="https://compound.finance/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/compound-finance/compound-protocol" target="_blank" className="button">Code</a>
-                </div>
-
-                <div className="projects__card">
-                    <h3>Aave</h3>
-                    <img src={aave} alt="Aave Landing Page" />
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis consectetur facere neque assumenda quasi aliquid,
-                        perferendis ratione rerum dolorem.
-                    </p>
-
-                    <a href="https://aave.com/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/aave/aave-v3-core" target="_blank" className="button">Code</a>
-                </div>
             </div>
         </section>
     );

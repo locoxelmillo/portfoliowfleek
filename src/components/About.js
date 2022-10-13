@@ -6,14 +6,7 @@ const About = () => {
         <section className='about'>
             <h2>About Me</h2>
             <p>
-                Lorem ipsum dolor sit amet consectetur,
-                adipisicing elit. Neque, pariatur odio.
-                Maxime, labore nihil illo ea voluptate suscipit aliquid animi
-                possimus laudantium fugit obcaecati harum?
-                Assumenda maiores nam magnam animi? Lorem ipsum dolor sit amet consectetur
-                adipisicing elit. Eaque voluptatibus vitae, rem corrupti id consectetur!
-                Sapiente laboriosam nam excepturi exercitationem natus unde, harum
-                consequatur vero amet consectetur quod sunt autem!
+            On a personal level I am open to any situation that is challenging and which tests my abilities. I am a highly committed, tenacious and friendly person who works well in a team environment. I am also a resilient self-starter. With my past work colleagues I have a reputation as being a fast learner, who is dependable, organized, and with a strong work ethics.
             </p>
         </section>
     );

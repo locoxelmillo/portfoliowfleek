@@ -207,6 +207,8 @@ code {
   cursor: pointer;
 
   transition: all 250ms ease;
+
+  margin-top: 3%;
 }
 
 .button:hover {
